@@ -1,0 +1,7 @@
+	Primer proyecto de la carrera. Es un juego clásico de plataformas hecho con Unity y C#.
+
+Creadores:
+	- Ramón Arjona Quijones
+	- Alberto Córdoba Ortiz
+	- Jesús Fernández Cobos
+	- Alejandro Villar Rubio

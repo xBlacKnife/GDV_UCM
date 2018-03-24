@@ -1,0 +1,5 @@
+	Snow Cousins es una versión de Snow Bros, creado con JavaScript y Phaser.
+
+Creadores:
+	- Sergio Gavilán Fernández
+	- Alejandro Villar Rubio
